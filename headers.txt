@@ -1,0 +1,8 @@
+Connection: keep-alive
+Origin: https://www.icloud.com
+Content-Type: text/plain
+Accept: */*
+Referer: https://www.icloud.com/
+Accept-Language: en-US,en;q=0.8
+Cookie: X-APPLE-WEB-KB-LYG0OTT2SPAY_D8PAW1DOVNGUAM="v=1:t=AQAAAABWTMxLYWB-FIxwXkT5K_yVouvmWciOqx8~"; X-APPLE-WEB-KB-OP7MTF5JIZAEEZTZCU9ZCKCY86K="v=1:
+t=AQAAAABWZgzIz6D-dHRn7xNzuJ1cZ8FsDQjb2Ts~"
