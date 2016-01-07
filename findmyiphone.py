@@ -1,5 +1,5 @@
 #!/usr/local/bin/python2.7
-#####  Written by David McCulloch, Seattle WA dkmcculloch github user    ############
+#####  Written by David McCulloch, Seattle WA dkmcculloch github user, email david.mcculloch@gmail.com ############
 #####  Jan 2016   ######
 import os,json,datetime,time
 import smtplib
