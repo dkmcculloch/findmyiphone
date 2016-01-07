@@ -1,0 +1,10 @@
+{"serverContext":
+{"minCallbackIntervalInMS":5000,"prefsUpdateTime":1380344848009,"maxDeviceLoadTime":60000,"classicUser":false,"sessionLifespan":900000,"enableMapStat
+s":true,"preferred Language":"en-us","info":"wywMwgE8FCjo2Uqkxjj8+F4gssWb2uNItoe0EQiv+tGBiispOXfYmHURk8q/tikN","isHSA":false,"timezone":{"tzCurrentNa
+me":"Pacific Standard Time","previousTransition":1446368399999,"previousOffset":-25200000,"currentOffset":-28800000,"tzName":"US/Pacific"},"cloudUser
+":true,"maxLocatingTime":90000,"maxCallbackIntervalInMS":60000,"macCount":0,"enable2FAFamilyActions":false,"minTrackLocThresholdInMts":100,"enable2FA
+FamilyRemove":false,"authToken":null,"serverTimestamp":1451509574566,"imageBaseUrl":"https://statici.icloud.com","deviceLoadStatus":"200","clientId":
+"Y2xpZW50XzE0MTI1OTQwMF8xNDUxNTA5NTY4MjY1","lastSessionExtensionTime":null,"trackInfoCacheDurationInSecs":86400,"enable2FAErase":false,"callbackInter
+valInMS":2000,"validRegion":true,"showSllNow":false,"prsId":141259400,"id":"server_ctx"},"clientContext":{"appName":"iCloud Find (Web)","appVersion":
+"2.0","timezone":"US/Pacific","inactiveTime":4866,"apiVersion":"3.0","fmly":true,"shouldLocate":true,"selectedDevice":"7ku3Pbq9EFPfnm+H9CciS/5gbPjI95
+887sr0hrgqe69rZ72gcWuoSeHYVNSUzmWV"}}
